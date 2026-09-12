@@ -726,8 +726,3 @@ spec:
 | emptyDir (Memory) | tmpfs | ✅ | Pod 生命周期 |
 | emptyDir (default) | 容器 rootfs | ❌ | Pod 生命周期 |
 | NFS PVC | NFS | ⚠️ v3 可能可以 | 持久 |
-
-
-
-
-
